@@ -373,5 +373,5 @@ document.querySelectorAll(".tab-btn").forEach(btn=>{
 
 /* ---------------- INIT ---------------- */
 
-addMsg("Hey! I'm TruFit 👋 Tell me what you're shopping for — category, size, budget and style all in one go if you like. E.g. <i>dress size 10 under £30 party trendy</i>");
+addMsg("Hey! I'm TruFit 👋 Tell me what you're shopping for — category, size, budget and style all in one go if you like. E.g. <i>A dress, size 10, trendy, casual</i>");
 renderFaves();
