@@ -81,7 +81,7 @@ function getShopName(url){
 // Category synonyms (Session 7 robustness fix — was breaking on "trainers", "jeans", etc.)
 // Add more slang here any time testing turns up a word that doesn't match.
 const CATEGORY_SYNONYMS = {
-  shoes: ["shoes","shoe","trainers","trainer","sneakers","sneaker","kicks"],
+  shoes: ["shoes","shoe","trainers","trainer","sneakers","sneaker","kicks", "boots"],
   dresses: ["dresses","dress"],
   sunglasses: ["sunglasses","shades","sunnies"],
   tops: ["tops","top","tee","t-shirt","tshirt","shirt"],
